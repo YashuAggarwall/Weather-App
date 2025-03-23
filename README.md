@@ -16,7 +16,7 @@ Styling: Material-UI
 The app uses the OpenWeatherMap API to fetch real-time weather data.
 
 ✅ API Endpoint:
-https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API_KEY}&units=metric
+"https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API_KEY}&units=metric"
 q: City name
 appid: Your unique API key
 units=metric: To display temperature in Celsius
